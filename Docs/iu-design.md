@@ -1,1 +1,37 @@
+Interfaz de Usuario | Buscaminas
+
+El Buscaminas es un juego clásico de lógica y memoria. El objetivo principal es encontrar todas las celdas vacías sin activar las minas ocultas. Aquí están los detalles:
+Tablero: El juego se juega en un tablero rectangular con celdas. Algunas celdas contienen minas, mientras que otras están vacías.
+Celdas Numeradas: Las celdas destapadas pueden contener números. Estos números indican la cantidad de minas adyacentes a esa celda.
+Minas: Algunas celdas contienen minas ocultas. Si el jugador destapa una mina, pierde el juego.
+Objetivo: El jugador debe destapar todas las celdas seguras sin activar ninguna mina. Para hacerlo, debe usar pistas proporcionadas por los números en las celdas adyacentes.
+
+
+Pantalla de Inicio (Menú Principal):
+
+Esta pantalla aparece al abrir el juego.
+Contiene opciones de inicio de sesión y registro.
+![Home](https://github.com/Rcongo01/PROJECT--Building-Applications-for-Mobile-Devices/assets/141886616/494d0050-42ba-453a-8870-6b089bbe114b)
+
+
+Pantalla de Explorar:
+Esta pantalla aparece al abrir el juego, contiene la muestra de estadisticas, opción multijugador, mejores puntajes de los usuarios según el nivel de juego y botón para iniciar el juego.
+Tablero de Juego:
+
+
+La pantalla principal del juego muestra el tablero de celdas.
+Las celdas pueden estar en uno de los siguientes estados: tapadas, destapadas o marcadas con bandera.
+El jugador interactúa con las celdas tocándolas.
+Celdas Destapadas:
+Cuando el jugador toca una celda, se revela su contenido.
+Las celdas pueden contener números (indicando minas adyacentes) o minas.
+Si el jugador destapa una mina, pierde el juego.
+Botones y Controles:
+Botón Reiniciar: Permite comenzar un nuevo juego.
+Indicador de Minas Restantes: Muestra cuántas minas quedan por descubrir.
+Tiempo Transcurrido: Opcionalmente, se puede mostrar un cronómetro para medir el tiempo que lleva al jugador completar el juego.
+Pantalla de Victoria o Derrota:
+Cuando el jugador completa el juego (destapa todas las celdas seguras) o activa una mina, se muestra una pantalla de victoria o derrota.
+Puede incluir opciones para volver a jugar o salir al menú principal.
+
 
