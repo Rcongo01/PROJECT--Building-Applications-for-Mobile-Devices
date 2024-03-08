@@ -4,7 +4,11 @@ Pantalla de Inicio (Menú Principal):
 
 Esta pantalla aparece al abrir el juego.
 Contiene opciones de inicio de sesión y registro.
-![Home](https://github.com/Rcongo01/PROJECT--Building-Applications-for-Mobile-Devices/assets/141886616/691fdbab-a347-4759-a3a4-f4271cbdeee4)
+<p align="center">
+  <img src="https://github.com/JTatianaAriza/Images/assets/147046298/b2b4f52e-c29e-4c89-8d29-ad287c6ce311" alt="Imagen de Inicio" style="width:200px;">
+</p>
+
+
 
 
 
