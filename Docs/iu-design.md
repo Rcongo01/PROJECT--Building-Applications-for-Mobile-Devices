@@ -1,5 +1,13 @@
 
 
+Logo de Aplicacion
+
+<p align="center">
+  <img src="https://github.com/JTatianaAriza/Images/assets/147046298/8605f381-f648-4cc5-acd8-852a0212a55f" alt="Imagen de Inicio" style="width:200px;">
+</p>
+
+
+
 Pantalla de Inicio (Menú Principal):
 
 Esta pantalla aparece al abrir el juego.
