@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/JTatianaAriza/Images/assets/147046298/8605f381-f648-4cc5-acd8-852a0212a55f" alt="Logo de BlastSweeper" width="250">
 </p>
-<h1 align="center"><span style="font-size:108px;">🎮 BlastSweeper 💣</span></h1>
+<h1 align="center"><a href="https://www.figma.com/proto/orXg6fBVV1Zpuxvq7kDImM/BlastSweeper?type=design&node-id=14-780&t=j6X7X1v3D91nigID-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A2767&mode=design"><span style="font-size:108px;">🎮 BlastSweeper 💣</span></a></h1>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
